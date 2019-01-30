@@ -16,8 +16,9 @@
   
 ## Techology
 
+  * Java
   * Android Studio
-  
+   
 ## Getting started
 
 * Clone the repository
